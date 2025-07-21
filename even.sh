@@ -7,3 +7,4 @@ then
 else 
  echo " number is odd "
 fi 
+Hi i am going to update this file for testing
